@@ -1,5 +1,4 @@
 Below are **complete TCS NQT-style solutions for each array problem**.
-I kept the **coding style simple (loops + basic Python)** because this is the pattern generally used in the **TCS NQT coding section**.
 
 Each problem includes:
 
