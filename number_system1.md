@@ -1,3 +1,7 @@
+
+
+
+
 ---
 
 # 1️⃣ Convert Binary to Decimal
@@ -242,4 +246,8 @@ print output
 ```
 
 This is **exactly how TCS NQT coding questions usually appear**.
+
+---
+
+
 
