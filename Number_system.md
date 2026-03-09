@@ -1,7 +1,3 @@
-
-
-
-
 ---
 
 # 1️⃣ Convert Binary to Decimal
